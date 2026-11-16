@@ -2,23 +2,23 @@
 
 [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/redubbledd1-ops/TimeGuess/releases/latest/download/TimeGuess-v28.apk)
 
-**[⬇ Download de laatste versie (.apk)](https://github.com/redubbledd1-ops/TimeGuess/releases/latest/download/TimeGuess-v28.apk)**
+**[⬇ Download the latest version (.apk)](https://github.com/redubbledd1-ops/TimeGuess/releases/latest/download/TimeGuess-v28.apk)**
 
-De app staat nog niet in de Play Store — je kunt hem hier via GitHub downloaden en direct installeren op je Android-toestel.
+The app isn't on the Play Store yet — you can download it here from GitHub and install it directly on your Android device.
 
-## Over het spel
+## About the game
 
-**TimeGuess** test hoe goed jouw interne klok is. De bedoeling is simpel: start een timer en stop hem weer precies op het afgesproken aantal seconden — zonder dat je kunt zien hoeveel tijd er al verstreken is. Wie het dichtst bij de doeltijd uitkomt, wint de ronde.
+**TimeGuess** tests how good your internal clock is. The idea is simple: start a timer and stop it again at exactly the agreed number of seconds — without being able to see how much time has passed. Whoever lands closest to the target time wins the round.
 
-- **Custom Game** – stel zelf de doeltijd, het aantal rondes en spelers in.
-- **Quick Play** – direct een snelle ronde spelen zonder instellingen.
-- **Verschillende tijdmodi** – normaal (steeds dezelfde tijd), oplopend, aflopend of willekeurig per ronde.
-- **Multiplayer** – speel om de beurt of allemaal gelijktijdig (tot 6 spelers).
-- **Geschiedenis** – eerdere spellen en scores blijven bewaard.
-- **Meertalig** – de app ondersteunt meerdere talen, waaronder Nederlands en Engels.
+- **Custom Game** – set your own target time, number of rounds, and players.
+- **Quick Play** – jump straight into a quick round with no setup.
+- **Different time modes** – normal (same time every round), ascending, descending, or random per round.
+- **Multiplayer** – play one by one or all at the same time (up to 6 players).
+- **History** – past games and scores are saved.
+- **Multilingual** – the app supports multiple languages, including English and Dutch.
 
-## Installeren
+## Installing
 
-1. Download de `.apk` via de link hierboven.
-2. Zet "Installeren uit onbekende bronnen" aan voor je bestandsbeheerder/browser (Android vraagt hier zelf om).
-3. Open de gedownloade `.apk` en installeer de app.
+1. Download the `.apk` from the link above.
+2. Enable "Install from unknown sources" for your file manager/browser (Android will prompt you for this).
+3. Open the downloaded `.apk` and install the app.

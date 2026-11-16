@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeGuess</string>
+    
+    <!-- Language Selection -->
+    <string name="select_language">Select Language</string>
+    <string name="language_english">English</string>
+    <string name="language_dutch">Nederlands</string>
+    <string name="continue_btn">Continue</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">TimeGuess</string>
+    <string name="home_subtitle">How good is your sense of time?</string>
+    <string name="start_game">Custom Game</string>
+    <string name="quick_play">Quick Play</string>
+    <string name="history">History</string>
+    
+    <!-- Time Selection -->
+    <string name="select_target_time">Select Target Time</string>
+    <string name="custom_time_label">Custom (1–1800 sec)</string>
+    <string name="duration_mode">Duration Mode</string>
+    <string name="mode_normal">Normal – same time every round</string>
+    <string name="mode_ascending">Ascending – time increases each round</string>
+    <string name="mode_descending">Descending – time decreases each round</string>
+    <string name="mode_random">Random – random time each round</string>
+    <string name="mode_normal_short">Normal</string>
+    <string name="mode_ascending_short">Ascending</string>
+    <string name="mode_descending_short">Descending</string>
+    <string name="mode_random_short">Random</string>
+    <string name="increment_label">Increment (sec/round)</string>
+    <string name="min_sec">Min (sec)</string>
+    <string name="max_sec">Max (sec)</string>
+    <string name="abbr_seconds">s</string>
+    <string name="abbr_minutes">m</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    
+    <!-- Round Selection -->
+    <string name="number_of_players">Number of Players</string>
+    <string name="number_of_rounds">Number of Rounds</string>
+    <string name="play_mode">Play Mode</string>
+    <string name="mode_one_by_one">One-by-one</string>
+    <string name="mode_same_time">At same time</string>
+    <string name="mode_one_by_one_desc">Players take turns</string>
+    <string name="mode_same_time_desc">Simultaneous (max 6 players)</string>
+    
+    <!-- Player Setup -->
+    <string name="player_names">Player Names</string>
+    <string name="player_hint">Player %1$d</string>
+    
+    <!-- Game Screen -->
+    <string name="round_of">Round %1$d of %2$d</string>
+    <string name="round_simple">Round %1$d</string>
+    <string name="tap_to_start">Tap to start</string>
+    <string name="tap_to_stop">Tap to stop</string>
+    <string name="target_seconds">Target: %1$d seconds</string>
+    <string name="your_time">Your time</string>
+    <string name="new_round">New round</string>
+    <string name="too_late">+%1$.2f %2$s (too late)</string>
+    <string name="too_early">%1$.2f %2$s (too early)</string>
+    <string name="start_timer">START</string>
+    <string name="stop">STOP</string>
+    
+    <!-- Simultaneous Game -->
+    <string name="all_players_ready">All players ready!</string>
+    <string name="waiting_for_players">Waiting for %1$d player(s)</string>
+    
+    <!-- Tap Order -->
+    <string name="enter_tap_order">Enter Tap Order</string>
+    <string name="tap_order_instructions">Enter the position each player tapped (1 = first)</string>
+    <string name="position">Position</string>
+    <string name="avg_short">Avg.</string>
+    <string name="confirm">Confirm</string>
+    
+    <!-- Results -->
+    <string name="results">Results</string>
+    <string name="wins_short">Wins</string>
+    <string name="back_to_home">Back to Home</string>
+    
+    <!-- History -->
+    <string name="game_history">Game History</string>
+    <string name="no_history">No game history yet</string>
+    <string name="delete_all_history">Delete All</string>
+    <string name="delete_all_confirm">Are you sure you want to delete all game history? This cannot be undone.</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="players_count">%1$d player(s)</string>
+    <string name="rounds_count">%1$d round(s)</string>
+    <string name="base_time">Base time: %1$d %2$s</string>
+    
+    <!-- Additional UI Text -->
+    <string name="round_results">Round %1$d Results</string>
+    <string name="next_round">Next Round</string>
+    <string name="view_final_results">View Final Results</string>
+    <string name="time_label">Time: %1$.2f %2$s</string>
+    <string name="time_fixed_label">Time: %1$d %2$s</string>
+    <string name="start_time_label">Start time: %1$d %2$s</string>
+    <string name="range_time_label">Min: %1$d %2$s, Max: %3$d %2$s</string>
+    <string name="perfect">Perfect!</string>
+    <string name="select_order_of_clicks">Select Order of Clicks</string>
+    <string name="hold_and_drag_to_reorder">Hold and drag to reorder (1st at top)</string>
+    <string name="start_game_btn">Start Game</string>
+    <string name="taps_remaining">taps remaining</string>
+    <string name="all_tapped">All tapped!</string>
+    <string name="loading_order_selection">Loading order selection...</string>
+    <string name="tap_anywhere_to_start">Tap anywhere to start</string>
+    <string name="round">Round</string>
+    <string name="final_results">Final Results</string>
+    <string name="score">Score</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="play_again">Play Again</string>
+    <string name="player">Player</string>
+    <string name="total">total</string>
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeGuess</string>
+    
+    <!-- Language Selection -->
+    <string name="select_language">Kies Taal</string>
+    <string name="language_english">English</string>
+    <string name="language_dutch">Nederlands</string>
+    <string name="continue_btn">Doorgaan</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">TimeGuess</string>
+    <string name="home_subtitle">Hoe goed is jouw tijdsgevoel?</string>
+    <string name="start_game">Aangepast Spel</string>
+    <string name="quick_play">Snel Spelen</string>
+    <string name="history">Geschiedenis</string>
+    
+    <!-- Time Selection -->
+    <string name="select_target_time">Kies Doeltijd</string>
+    <string name="custom_time_label">Aangepast (1–1800 sec)</string>
+    <string name="duration_mode">Duur Modus</string>
+    <string name="mode_normal">Normaal – elke ronde dezelfde tijd</string>
+    <string name="mode_ascending">Oplopend – tijd neemt toe per ronde</string>
+    <string name="mode_descending">Aflopend – tijd neemt af per ronde</string>
+    <string name="mode_random">Willekeurig – willekeurige tijd per ronde</string>
+    <string name="mode_normal_short">Normaal</string>
+    <string name="mode_ascending_short">Oplopend</string>
+    <string name="mode_descending_short">Aflopend</string>
+    <string name="mode_random_short">Willekeurig</string>
+    <string name="increment_label">Toename (sec/ronde)</string>
+    <string name="min_sec">Min (sec)</string>
+    <string name="max_sec">Max (sec)</string>
+    <string name="abbr_seconds">sec</string>
+    <string name="abbr_minutes">min</string>
+    <string name="next">Volgende</string>
+    <string name="back">Terug</string>
+    
+    <!-- Round Selection -->
+    <string name="number_of_players">Aantal Spelers</string>
+    <string name="number_of_rounds">Aantal Rondes</string>
+    <string name="play_mode">Spelmodus</string>
+    <string name="mode_one_by_one">Om de beurt</string>
+    <string name="mode_same_time">Tegelijkertijd</string>
+    <string name="mode_one_by_one_desc">Spelers om de beurt</string>
+    <string name="mode_same_time_desc">Tegelijk (max 6 spelers)</string>
+    
+    <!-- Player Setup -->
+    <string name="player_names">Spelersnamen</string>
+    <string name="player_hint">Speler %1$d</string>
+    
+    <!-- Game Screen -->
+    <string name="round_of">Ronde %1$d van %2$d</string>
+    <string name="round_simple">Ronde %1$d</string>
+    <string name="tap_to_start">Tik om te starten</string>
+    <string name="tap_to_stop">Tik om te stoppen</string>
+    <string name="target_seconds">Doel: %1$d seconden</string>
+    <string name="your_time">Jouw tijd</string>
+    <string name="new_round">Nieuwe ronde</string>
+    <string name="too_late">+%1$.2f %2$s (te laat)</string>
+    <string name="too_early">%1$.2f %2$s (te vroeg)</string>
+    <string name="start_timer">START</string>
+    <string name="stop">STOP</string>
+    
+    <!-- Simultaneous Game -->
+    <string name="all_players_ready">Alle spelers klaar!</string>
+    <string name="waiting_for_players">Wachten op %1$d speler(s)</string>
+    
+    <!-- Tap Order -->
+    <string name="enter_tap_order">Voer Tikvolgorde In</string>
+    <string name="tap_order_instructions">Voer de positie in waarop elke speler tikte (1 = eerste)</string>
+    <string name="position">Positie</string>
+    <string name="avg_short">Gem.</string>
+    <string name="confirm">Bevestigen</string>
+    
+    <!-- Results -->
+    <string name="results">Resultaten</string>
+    <string name="wins_short">Win\'s</string>
+    <string name="back_to_home">Terug naar Home</string>
+    
+    <!-- History -->
+    <string name="game_history">Spelgeschiedenis</string>
+    <string name="no_history">Nog geen spelgeschiedenis</string>
+    <string name="delete_all_history">Verwijder Alles</string>
+    <string name="delete_all_confirm">Weet je zeker dat je alle spelgeschiedenis wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</string>
+    <string name="delete">Verwijderen</string>
+    <string name="cancel">Annuleren</string>
+    <string name="players_count">%1$d speler(s)</string>
+    <string name="rounds_count">%1$d ronde(s)</string>
+    <string name="base_time">Basistijd: %1$d %2$s</string>
+    
+    <!-- Additional UI Text -->
+    <string name="round_results">Ronde %1$d Resultaten</string>
+    <string name="next_round">Volgende Ronde</string>
+    <string name="view_final_results">Bekijk Eindresultaten</string>
+    <string name="time_label">Tijd: %1$.2f %2$s</string>
+    <string name="time_fixed_label">Tijd: %1$d %2$s</string>
+    <string name="start_time_label">Start tijd: %1$d %2$s</string>
+    <string name="range_time_label">Min: %1$d %2$s, Max: %3$d %2$s</string>
+    <string name="perfect">Perfect!</string>
+    <string name="select_order_of_clicks">Selecteer Tikvolgorde</string>
+    <string name="hold_and_drag_to_reorder">Houd vast en sleep om opnieuw in te delen (1e bovenaan)</string>
+    <string name="start_game_btn">Spel Starten</string>
+    <string name="taps_remaining">tikken resterend</string>
+    <string name="all_tapped">Alles getikt!</string>
+    <string name="loading_order_selection">Tikvolgorde laden...</string>
+    <string name="tap_anywhere_to_start">Tik ergens om te starten</string>
+    <string name="round">Ronde</string>
+    <string name="final_results">Eindresultaten</string>
+    <string name="score">Score</string>
+    <string name="correct">Goed</string>
+    <string name="wrong">Fout</string>
+    <string name="play_again">Opnieuw spelen</string>
+    <string name="player">Speler</string>
+    <string name="total">totaal</string>
+</resources>
